@@ -27,6 +27,8 @@ def oneTwenty (a,b,c): #User defined function for checking wether the inputet nu
     if a<0 or b<0 or c<0:
         print("There can't be any - values")
 
+#Making changes to the file        
+
 def progression_outcome(a, b, c): #User defined function for displaying the progression outcome
     if a == 120:
         print("\nProgress")
